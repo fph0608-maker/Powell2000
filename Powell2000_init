@@ -239,7 +239,7 @@ function setupMusicPlayer() {
 
     playlists = [
         createList("Contract With America", [
-            ["Sabbath Bloody Sabbath", "The Cardigans", "https://files.catbox.moe/0gdec5.jpg", "https://files.catbox.moe/9oihg9.mp3", "Rock", "1993", "Emmerdale"],
+            ["Man In The Mirror", "Michael Jackson", "https://files.catbox.moe/0gdec5.jpg", "https://file.garden/agHmqREnpRn5ffF_/Man%20in%20the%20Mirror%204.mp3", "Rock", "1993", "Emmerdale"],
             ["Paid For Loving", "Love Jones", "https://fastly-s3.allmusic.com/release/mr0001505330/front/400/GAKLSQcqxWWEldpmhvQ3xN_M69_UI9rrJSVvWL2-yAg=.jpg", "https://files.catbox.moe/706lt0.mp3", "Lounge", "1993", "Here's To the Losers"],
             ["This Charming Man", "Death Cab for Cutie", "https://upload.wikimedia.org/wikipedia/en/a/ae/Death_Cab_for_Cutie_-_You_Can_Play_These_Songs_With_Chords.jpg", "https://files.catbox.moe/fuz6kt.mp3", "Rock", "1995", "You Can Play These Songs With Chords"],
             ["Heaven or Las Vegas", "Cocteau Twins", "https://e.snmc.io/i/300/w/ca39d13d49f3f9ea31f5815ee93444f3/11766199", "https://files.catbox.moe/xy3lyz.mp3", "Pop/Rock", "1990", "Heaven or Las Vegas"],
