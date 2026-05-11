@@ -238,13 +238,13 @@ function setupMusicPlayer() {
     }
 
     playlists = [
-        createList("Contract With America", [
-            ["Man In The Mirror", "Michael Jackson", "https://files.catbox.moe/0gdec5.jpg", "https://file.garden/agHmqREnpRn5ffF_/Man%20in%20the%20Mirror%204.mp3", "Rock", "1993", "Emmerdale"],
-            ["Paid For Loving", "Love Jones", "https://fastly-s3.allmusic.com/release/mr0001505330/front/400/GAKLSQcqxWWEldpmhvQ3xN_M69_UI9rrJSVvWL2-yAg=.jpg", "https://files.catbox.moe/706lt0.mp3", "Lounge", "1993", "Here's To the Losers"],
-            ["This Charming Man", "Death Cab for Cutie", "https://upload.wikimedia.org/wikipedia/en/a/ae/Death_Cab_for_Cutie_-_You_Can_Play_These_Songs_With_Chords.jpg", "https://files.catbox.moe/fuz6kt.mp3", "Rock", "1995", "You Can Play These Songs With Chords"],
-            ["Heaven or Las Vegas", "Cocteau Twins", "https://e.snmc.io/i/300/w/ca39d13d49f3f9ea31f5815ee93444f3/11766199", "https://files.catbox.moe/xy3lyz.mp3", "Pop/Rock", "1990", "Heaven or Las Vegas"],
-            ["Dog New Tricks", "Garbage", "https://upload.wikimedia.org/wikipedia/en/4/42/GarbageSTinternational.png", "https://files.catbox.moe/5zta22.mp3", "Rock", "1995", "Garbage"],
-            ["Last Goodbye", "Jeff Buckley", "https://upload.wikimedia.org/wikipedia/en/e/e4/Jeff_Buckley_grace.jpg", "https://files.catbox.moe/fpzydt.mp3", "Rock", "1994", "Grace"]
+        createList("Century of Democracy", [
+            ["Man In The Mirror", "Michael Jackson", "https://imgur.com/4L62ZBf.png", "https://file.garden/agHmqREnpRn5ffF_/Man%20in%20the%20Mirror%204.mp3", "Pop", "1987", "Bad"],
+            ["Virtual Insanity", "Jamiroquai", "https://imgur.com/FktfhqE.png", "https://file.garden/agHmqREnpRn5ffF_/Jamiroquai%20-%20Virtual%20Insanity%20(Official%20Visualiser)%204.mp3", "Funk/R&B", "1996", "Travelling Without Moving"],
+            ["All Star", "Smash Mouth", "https://upload.wikimedia.org/wikipedia/en/3/30/Astro_lounge.png", "https://file.garden/agHmqREnpRn5ffF_/Smash%20Mouth%20-%20All%20Star%204-2.mp3", "Pop Rock", "1999", "Astro Lounge"],
+            ["Loser", "Beck", "https://upload.wikimedia.org/wikipedia/en/3/3e/MellowGold.jpg", "https://file.garden/agHmqREnpRn5ffF_/Beck%20-%20Loser%204.mp3", "Alt Rock", "1993", "Mellow Gold"],
+            ["The Universal", "Blur", "https://upload.wikimedia.org/wikipedia/en/c/c9/Blur_thegreatescape.png", "https://file.garden/agHmqREnpRn5ffF_/The%20Universal.mp3", "Britpop", "1995", "The Great Escape"],
+            ["Enjoy the Silence", "Depeche Mode", "https://upload.wikimedia.org/wikipedia/en/9/92/Depeche_Mode_-_Violator.png", "https://file.garden/agHmqREnpRn5ffF_/Enjoy%20the%20Silence%204.mp3", "Synth-Pop", "1990", "Violator"]
         ]),
         createList("A New Contract", [
             ["Iron Man", "The Cardigans", "https://upload.wikimedia.org/wikipedia/en/0/09/FirstBandOnTheMoon.jpg", "https://file.garden/aYjZLAM7UCBtT7eY/Iron%20Man.mp3", "Rock", "1996", "First Band on the Moon"]
