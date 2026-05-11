@@ -61,8 +61,8 @@ const diffObserver = new MutationObserver(bhToggle);
 diffObserver.observe(gameWindowNode, diffWatcherConfig);
 
 HistHexcolour=["#e70021","#0021cc","#ef861c","#77d619"];
-HistName=[" Colin Powell", " Bill Clinton", " Pat Buchanan", " Ralph Nader/Others"];
-HistEV=["282","256","–","–"];
-HistPV=["45,001,514","44,776,824","6,798,895","1,622,940"];
-HistPVP=["45.8%","45.6%","6.9%","1.7%"];
+HistName=[" Colin Powell", " Bill Clinton", " Ralph Nader/Others"];
+HistEV=["516","3","–","–"];
+HistPV=["60,397,122","44,375,547","6,798,895"];
+HistPVP=["57.3%","42.1%","0.6%"];
 RecReading = true
