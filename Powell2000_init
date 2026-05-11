@@ -14,10 +14,10 @@ $("#game_window")[0].style.backgroundImage = "url(https://imgur.com/gpxsV4p.png)
 document.getElementById("header").src = "https://imgur.com/97nsKjd.png";
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_title = "#733141";
 nct_stuff.themes[nct_stuff.selectedTheme].coloring_window = "#c37184";
-$("#game_window")[0].style.backgroundColor = "#c37184";
+$("#game_window")[0].style.backgroundColor = "#ebebeb";
 $("#game_window")[0].style.border = ".2em solid #733141";
 $(".footer a").css({"color":"#603241"});
-$(".container")[0].style.backgroundColor = "#733141";
+$(".container")[0].style.backgroundColor = "#ebebeb";
 $(".container")[0].style.padding = "0em";
 $(".container")[0].style.border = ".3em double #823e54";
 // Question count selector
