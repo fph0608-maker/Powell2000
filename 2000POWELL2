@@ -19,7 +19,7 @@ campaignTrail_temp.election_json = [
 campaignTrail_temp.temp_election_list = [
     {
         "id": 20,
-        "year": 2000,
+        "year": 2016,
         "is_premium": 0,
         "display_year": "2000Powell"
     }
@@ -144,6 +144,29 @@ campaignTrail_temp.candidate_json = [
             "candidate_score": 1,
             "running_mate": true
         }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 50002,
+        "fields": {
+            "first_name": "John",
+            "last_name": "McCain",
+            "election": 20,
+            "party": "Republican",
+            "state": "Arizona",
+            "priority": 1,
+            "description": "<p>Put description here</p>",
+            "color_hex": "#a1314c",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://imgur.com/rKfwVdR.png",
+            "electoral_victory_message": "This guy wins!",
+            "electoral_loss_message": "This guy loses!",
+            "no_electoral_majority_message": "We all win?",
+            "description_as_running_mate": "<p>If you're going to go all the way with the independent image, who better to have by your side than the Maverick himself? McCain's work as one of the Keating Five along with his status as a Vietnam POW makes him a fighter in both the legislative and the military sense, meaning your ticket would be pack-a-punched with star power. </p><p>However, besides the obvious risk of dropping your sitting Vice President, McCain's status as someone willing to break with party lines may be a detriment in an election where the hardest votes for you to hold may be those of your own base. It's a tough calculation to square, but if the ship holds, you could reap substantial rewards.</p>",
+            "candidate_score": 1,
+            "running_mate": true
+        }
     }
 ]
 
@@ -162,6 +185,14 @@ campaignTrail_temp.running_mate_json = [
         "fields": {
             "candidate": 50000,
             "running_mate": 50001
+        }
+    },
+    {
+        "model": "campaign_trail.running_mate",
+        "pk": 137625,
+        "fields": {
+            "candidate": 1001,
+            "running_mate": 50002
         }
     }
 ]
