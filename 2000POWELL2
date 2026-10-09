@@ -31,7 +31,7 @@ campaignTrail_temp.temp_election_list = [
 
 RecReading = true;
 
-campaignTrail_temp.credits = "Dan Bryan";
+campaignTrail_temp.credits = "InformationEven";
 
 campaignTrail_temp.global_parameter_json = [
     {
@@ -664,10 +664,10 @@ const SVGS = {
 
 const allPlaylists = [
   [
-    new Song("The State Of The Union", "Thievery Corporation", "https://yt3.googleusercontent.com/RdoyfnzTcOhFR7C9At40axIbGql-zmiLXaPMMPPgUlsV5PA2Ds0S42yLYdG1f_9rPVEQfV-CnXtCPS4=w544-h544-l90-rj", "https://music.youtube.com/watch?v=0tF4UFkTyTI"),
-    new Song("Hell Is Round The Corner", "Tricky, Martina Topley-Bird", "https://yt3.googleusercontent.com/AoxW27x7l9dcD571bmEed32XNG6Jq24mRZmeYQ6H2pG2rnHlueqg4aWKTsOhojq3pdDUkwa0ONQA81w=w544-h544-l90-rj", "https://music.youtube.com/watch?v=eRAJL1KErb0"),
-	new Song("Scorn", "Portishead", "https://yt3.googleusercontent.com/3vCZl9EtfUzsSX8bXMHEFH3jGZYCtWdyDfeT6Kz2ap1ZXboeFZZ5BNjP9lSwh5T1y_L8ZAPJoMIHxjiTfQ=w544-h544-l90-rj", "https://music.youtube.com/watch?v=uHKTuMup36A"),
-	new Song("Otherwise", "Morcheeba", "https://yt3.googleusercontent.com/GopTaNjmiO0ACJYVrK9X1pz5GINLMtiioWTqktW3I7YuvFTehvI713wCiJ6-5D7aC_8pd_j5ZlAjCZQ=w544-h544-l90-rj", "https://music.youtube.com/watch?v=se-lbi_YdAU")
+    new Song("Bodysnatchers", "Radiohead", "https://imgur.com/6giuxIO.png", "https://music.youtube.com/watch?v=nIQxhSvSRnQ"),
+    new Song("Policy of Truth", "Depeche Mode", "https://i.discogs.com/DTZx33OqUlUowjvskQDAhExfHXlkaULg9vFSA0iUQys/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2OTA1/LTE2NjYyMDQ3Mzgt/OTUzMC5qcGVn.jpeg", "https://music.youtube.com/watch?v=fPDo_OA5nJg"),
+	new Song("All Star", "Smash Mouth", "https://i.scdn.co/image/ab67616d0000b2734f3bbf9631faeb8de9912a23", "https://music.youtube.com/watch?v=8ay_BkRuv-o"),
+	new Song("Ray of Light", "Madonna", "https://m.media-amazon.com/images/I/71U2Wjm3h4L._UF1000,1000_QL80_.jpg", "https://music.youtube.com/watch?v=OVPcEPTG5xE")
   ]
 ];
 
